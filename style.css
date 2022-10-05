@@ -123,4 +123,10 @@ p {
 .attribution {
   font-size: 10px;
   color: hsl(217, 12%, 63%);
+  margin-top: 5px;
+}
+
+a {
+  text-decoration: none;
+  color: hsl(217, 56%, 56%);
 }
